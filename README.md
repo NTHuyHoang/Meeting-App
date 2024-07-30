@@ -15,15 +15,13 @@ You can check out https://github.com/NTHuyHoang/Meeting-App/ - your feedback and
 ## Set up your project and download library
 
 1. First, create an application with NextJs with command line below:
+   // npx create-next-app@latest ./ --typescript --tailwind --eslint.
+   
+   To learn more about Next.js, take a look at the following resources:
+   - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+   - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-  // npx create-next-app@latest ./ --typescript --tailwind --eslint.
-
-  To learn more about Next.js, take a look at the following resources:
-
-  - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-  - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-2. After that, put these command line below in your terminal to download
+3. After that, put these command line below in your terminal to download
    libraries that need for your application. In this application, i recently use 3 website below:
    - https://ui.shadcn.com/ - learn to get beautifully display.
    - https://clerk.com/docs/quickstarts/nextjs - learn to you clerk to get sign-in and sign-up more easy.
