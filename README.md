@@ -8,15 +8,15 @@ You can do some basic operation like:
 4. Creat personal meeting room with a link and you can send it to everyone
 
 I also deployment this application on vercel so you can visit the website with the link below:
-## https://meeting-app-gray-zeta.vercel.app/
+https://meeting-app-gray-zeta.vercel.app/
 
-You can check out [https://github.com/NTHuyHoang/Meeting-App/) - your feedback and contributions are welcome!
+You can check out https://github.com/NTHuyHoang/Meeting-App/ - your feedback and contributions are welcome!
 
 ## Set up your project and download library
 
 1. First, create an application with NextJs with command line below:
 
-  // npx create-next-app@latest ./ --typescript --tailwind --eslint
+  // npx create-next-app@latest ./ --typescript --tailwind --eslint.
 
   To learn more about Next.js, take a look at the following resources:
 
@@ -29,24 +29,24 @@ You can check out [https://github.com/NTHuyHoang/Meeting-App/) - your feedback a
     ## https://clerk.com/docs/quickstarts/nextjs
     ## https://getstream.io/video/docs/react/ui-components/video-theme/
    
-  // npx shadcn-ui@latest init
-  // npx shadcn-ui@latest add button 
-  // npx shadcn-ui@latest add sheet 
-  // npm install @clerk/nextjs 
-  // npx shadcn-ui@latest add dialog   
-  // npm install @stream-io/video-react-sdk 
-  // npm install @stream-io/node-sdk 
-  // npx shadcn-ui@latest add toast 
-  // npx shadcn-ui@latest add dropdown-menu 
-  // npx shadcn-ui@latest add textarea 
-  // npm install react-datepicker 
-  // npx shadcn-ui@latest add input
+  // npx shadcn-ui@latest init.
+  // npx shadcn-ui@latest add button.
+  // npx shadcn-ui@latest add sheet.
+  // npm install @clerk/nextjs. 
+  // npx shadcn-ui@latest add dialog.   
+  // npm install @stream-io/video-react-sdk. 
+  // npm install @stream-io/node-sdk. 
+  // npx shadcn-ui@latest add toast. 
+  // npx shadcn-ui@latest add dropdown-menu. 
+  // npx shadcn-ui@latest add textarea. 
+  // npm install react-datepicker. 
+  // npx shadcn-ui@latest add input.
 
 2. Fix your file .env.local to your client Id. It will help you login using google, facebook and github while we using Clerk
-   and to use the stream video and audio from Theme
+   and to use the stream video and audio from Theme.
 
 3. When you have done all this step flow, run npm run dev in your terminal and see the result in:
-   ## http://localhost:3000/
+   http://localhost:3000/
    
 ## Deploy on Vercel
 
