@@ -25,22 +25,22 @@ You can check out https://github.com/NTHuyHoang/Meeting-App/ - your feedback and
 
 2. After that, put these command line below in your terminal to download
    libraries that need for your application. In this application, i recently use 3 website below:
-    ## https://ui.shadcn.com/
-    ## https://clerk.com/docs/quickstarts/nextjs
-    ## https://getstream.io/video/docs/react/ui-components/video-theme/
+   https://ui.shadcn.com/
+   https://clerk.com/docs/quickstarts/nextjs
+   https://getstream.io/video/docs/react/ui-components/video-theme/
    
-  // npx shadcn-ui@latest init.
-  // npx shadcn-ui@latest add button.
-  // npx shadcn-ui@latest add sheet.
-  // npm install @clerk/nextjs. 
-  // npx shadcn-ui@latest add dialog.   
-  // npm install @stream-io/video-react-sdk. 
-  // npm install @stream-io/node-sdk. 
-  // npx shadcn-ui@latest add toast. 
-  // npx shadcn-ui@latest add dropdown-menu. 
-  // npx shadcn-ui@latest add textarea. 
-  // npm install react-datepicker. 
-  // npx shadcn-ui@latest add input.
+   // npx shadcn-ui@latest init.
+   // npx shadcn-ui@latest add button.
+   // npx shadcn-ui@latest add sheet.
+   // npm install @clerk/nextjs. 
+   // npx shadcn-ui@latest add dialog.   
+   // npm install @stream-io/video-react-sdk. 
+   // npm install @stream-io/node-sdk. 
+   // npx shadcn-ui@latest add toast. 
+   // npx shadcn-ui@latest add dropdown-menu. 
+   // npx shadcn-ui@latest add textarea. 
+   // npm install react-datepicker. 
+   // npx shadcn-ui@latest add input.
 
 2. Fix your file .env.local to your client Id. It will help you login using google, facebook and github while we using Clerk
    and to use the stream video and audio from Theme.
