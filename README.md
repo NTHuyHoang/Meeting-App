@@ -25,9 +25,9 @@ You can check out https://github.com/NTHuyHoang/Meeting-App/ - your feedback and
 
 2. After that, put these command line below in your terminal to download
    libraries that need for your application. In this application, i recently use 3 website below:
-   https://ui.shadcn.com/
-   https://clerk.com/docs/quickstarts/nextjs
-   https://getstream.io/video/docs/react/ui-components/video-theme/
+   - https://ui.shadcn.com/ - learn to get beautifully display.
+   - https://clerk.com/docs/quickstarts/nextjs - learn to you clerk to get sign-in and sign-up more easy.
+   - https://getstream.io/video/docs/react/ui-components/video-theme/ - learn to import video and call for your application.
    
    // npx shadcn-ui@latest init.
    // npx shadcn-ui@latest add button.
@@ -42,7 +42,7 @@ You can check out https://github.com/NTHuyHoang/Meeting-App/ - your feedback and
    // npm install react-datepicker. 
    // npx shadcn-ui@latest add input.
 
-2. Fix your file .env.local to your client Id. It will help you login using google, facebook and github while we using Clerk
+2. Fix your file .env.local to your client Id. It will help you sign-in using google, facebook and github while we using Clerk
    and to use the stream video and audio from Theme.
 
 3. When you have done all this step flow, run npm run dev in your terminal and see the result in:
